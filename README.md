@@ -6,7 +6,7 @@ The project uses an input video & detects cars in it frame by frame.
 - OpenCV
 
 ### How to Run:
-Run main.py file.
+- Run main.py file.
 
 You can also use a video of your own choice. Make sure you update the 'video' variable properly.
 
